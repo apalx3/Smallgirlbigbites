@@ -1,0 +1,1 @@
+The Good bite will be a food blog with pictures, reviews & recipies. 
