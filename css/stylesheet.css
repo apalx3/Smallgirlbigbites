@@ -1,3 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+
 img, video, audio {
   max-width: 100%;
+}
+
+p {/* select all <p>} */
+font-family: 'Poiret One';
+font-size: 16px; /* 16 px, ?pt, 100%, 1em */
+line-height: 1.5em;
+}
+
+ol {
+  font-family: 'Poiret One';
+font-size: 16px; /* 16 px, ?pt, 100%, 1em */
+line-height: 1.5em;
+}
+
+ul {
+font-family: 'Poiret One';
+font-size: 16px; /* 16 px, ?pt, 100%, 1em */
+line-height: 1.5em;
 }
